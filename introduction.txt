@@ -1,0 +1,7 @@
+Hello sir 
+My name is Abhishek Yadav 
+I am  a second year student in Computer Science branch in Ajay Kumar Garg Engineering College , Ghaziabad .
+I have scored a CGPA of 8.2 in my first semester .
+Currently , I am a front end developer working with HTML CSS.
+I am also working on Javascript for now .
+Thank You sir .

@@ -5,3 +5,6 @@ I have scored a CGPA of 8.2 in my first semester .
 Currently , I am a front end developer working with HTML CSS.
 I am also working on Javascript for now .
 Thank You sir .
+My hobbies are playing cricket and bgmi.
+My skills are dsa problem solving , HTML and CSS .
+ 
